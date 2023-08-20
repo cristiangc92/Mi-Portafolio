@@ -1,0 +1,6 @@
+.navbar {
+  background-color: #393e46;
+  position: fixed;
+  z-index: 1;
+  width: 100vw;
+}

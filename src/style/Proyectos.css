@@ -1,0 +1,23 @@
+#proyectos {
+  text-align: center;
+  padding-top: 4rem;
+}
+
+#proyectos h1 {
+  color: #00adb5;
+  text-decoration: underline;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.proyecto {
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.proyecto img {
+  width: 100%;
+  border-radius: 2rem;
+  box-shadow: 0.2rem 0.2rem 1rem black;
+  margin-bottom: 1rem;
+}

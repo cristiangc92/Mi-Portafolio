@@ -1,0 +1,14 @@
+#sobreMi {
+  text-align: center;
+  padding-top: 4rem;
+}
+
+.tituloSobreMi {
+  color: #00adb5;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#sobreMi p {
+  color: white;
+}
