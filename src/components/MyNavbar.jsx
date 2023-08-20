@@ -5,7 +5,7 @@ import Navbar from "react-bootstrap/Navbar";
 
 function MyNavbar() {
   return (
-    <Navbar className="navbar" expand="lg" data-bs-theme="ligth">
+    <Navbar className="navbar" expand="lg" data-bs-theme="dark">
       <Container>
         <Navbar.Brand href="#home">
           <b>Mi Portafolio</b> 💼

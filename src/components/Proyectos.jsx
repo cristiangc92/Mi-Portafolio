@@ -17,7 +17,7 @@ const Proyectos = () => {
           Ordenar por nombre y cantidad de poblacion. Realizar busqueda por
           nombre. Ver informacion mas detallada de cada pais y crear actividades
           turisticas. <br />
-          <b>TECNOLOGIAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
+          <b>TECNOLOGÍAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
           Sequelize. <br />
           <b>DEPLOY:</b>{" "}
           <a href="https://countries-spa-plum.vercel.app/">
@@ -32,7 +32,7 @@ const Proyectos = () => {
           puede filtrar por temperamento, origen (api o db). Ordenar por nombre
           y peso. Realizar busqueda por nombre. Ver informacion mas detallada de
           cada raza y crear nuevas razas. <br />
-          <b>TECNOLOGIAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
+          <b>TECNOLOGÍAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
           Sequelize. <br />
           <b>DEPLOY:</b>{" "}
           <a href="https://dogs-spa-ten.vercel.app/">
@@ -47,7 +47,7 @@ const Proyectos = () => {
           Se puede filtrar por tipo, origen (api o db). Ordenar por nombre y
           puntos de ataque. Realizar busqueda por nombre exacto. Ver informacion
           mas detallada de cada pokémon y crear nuevos pokémons. <br />
-          <b>TECNOLOGIAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
+          <b>TECNOLOGÍAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
           Sequelize. <br />
           <b>DEPLOY:</b>{" "}
           <a href="https://pokemon-spa-sooty.vercel.app/">
@@ -62,7 +62,7 @@ const Proyectos = () => {
           filtrar por genero, origen (api o db). Ordenar por nombre y
           puntuacion. Realizar busqueda por nombre. Ver informacion mas
           detallada de cada videojuego y crear nuevos videojuegos. <br />
-          <b>TECNOLOGIAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
+          <b>TECNOLOGÍAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
           Sequelize. <br />
           <b>DEPLOY:</b>{" "}
           <a href="https://videogames-spa-seven.vercel.app/">

@@ -1,15 +1,15 @@
 .tituloHome {
-  color: black;
+  color: white;
   padding-top: 5rem;
 }
 
 .tituloHome span {
-  color: #8cc0de;
+  color: #00adb5;
 }
 
 .fotoPerfil {
   width: 100%;
   border-radius: 50%;
   margin-top: 1rem;
-  box-shadow: 0rem 0rem 1rem #8cc0de;
+  box-shadow: 0rem 0rem 1rem #00adb5;
 }
