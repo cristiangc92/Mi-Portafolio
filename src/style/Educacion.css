@@ -18,3 +18,9 @@
 .educ img {
   width: 100%;
 }
+
+@media (max-width: 768px) {
+  .educ p {
+    font-size: 1.5rem;
+  }
+}

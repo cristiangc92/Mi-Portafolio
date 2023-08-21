@@ -13,3 +13,18 @@
   margin-top: 1rem;
   box-shadow: 0rem 0rem 1rem #00adb5;
 }
+
+@media (max-width: 768px) {
+  #home {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5rem;
+  }
+  .fotoPerfil {
+    width: 40%;
+  }
+  .tituloHome {
+    padding-top: 0;
+  }
+}
