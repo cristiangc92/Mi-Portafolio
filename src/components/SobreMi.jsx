@@ -7,7 +7,7 @@ const SobreMi = () => {
       <p>
         Soy un apasionado de la tecnología y en especial de la programación. Me
         considero una persona curiosa, autodidacta, con buenas habilidades
-        sociales y de comunicación. Estoy en búsqueda una oportunidad que me
+        sociales y de comunicación. Estoy en búsqueda de una oportunidad que me
         permita continuar desarrollando mis habilidades profesionales y
         personales en un ámbito de trabajo real. <br />
         <br />
