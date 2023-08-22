@@ -21,3 +21,19 @@
   box-shadow: 0.2rem 0.2rem 1rem black;
   margin-bottom: 1rem;
 }
+
+@media (min-width: 1024px) {
+  .proyecto {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  .proyecto img {
+    height: 100%;
+    width: 45%;
+  }
+  .proyecto p {
+    width: 45%;
+  }
+}

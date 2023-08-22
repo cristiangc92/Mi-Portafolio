@@ -12,7 +12,7 @@ function MyNavbar() {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
+          <Nav className="ms-auto">
             <Nav.Link href="#home">🏡 Home</Nav.Link>
             <Nav.Link href="#sobreMi">👨🏻‍💻 Sobre Mí</Nav.Link>
             <Nav.Link href="#proyectos">🌐 Proyectos</Nav.Link>

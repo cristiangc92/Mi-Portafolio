@@ -24,3 +24,18 @@
     font-size: 1.5rem;
   }
 }
+
+@media (min-width: 1024px) {
+  .educ {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  .educ img {
+    width: 50%;
+  }
+  .educ p {
+    font-size: 2rem;
+  }
+}

@@ -14,7 +14,7 @@
   box-shadow: 0rem 0rem 1rem #00adb5;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   #home {
     display: flex;
     justify-content: space-between;
@@ -26,5 +26,14 @@
   }
   .tituloHome {
     padding-top: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .fotoPerfil {
+    width: 45%;
+  }
+  .tituloHome {
+    font-size: 2.5rem;
   }
 }
