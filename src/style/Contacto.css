@@ -31,7 +31,13 @@
   width: 90%;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 320px) {
+  #contacto img {
+    width: 50%;
+  }
+}
+
+@media (min-width: 768px) {
   #contacto img {
     width: 30%;
   }
