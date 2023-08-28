@@ -12,6 +12,11 @@ const SobreMi = () => {
           me permita continuar desarrollando mis habilidades profesionales y
           personales en un ámbito de trabajo real. <br />
           <br />
+          <strong>TECNOLOGIAS:</strong> HTML, CSS, Javascript, Node, Express,
+          React, Redux, Bootstrap, Postgres, Sequelize, MongoDB, Mongoose, Git,
+          Github.
+          <br />
+          <br />
           <b>
             ¡Para conocer un poco más de mí, te invito a continuar scrolleando!
           </b>
