@@ -14,19 +14,12 @@
 
 #sobreMi p {
   color: white;
-  font-size: 1.5rem;
 }
 
 @media (min-width: 1024px) {
   .parrafo {
-    width: 70%;
+    width: 90%;
     margin-top: 1rem;
-  }
-}
-
-@media (min-width: 425px) {
-  #sobreMi p {
-    color: white;
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 }

@@ -20,7 +20,7 @@ const Proyectos = () => {
           <b>TECNOLOGÍAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
           Sequelize. <br />
           <b>DEPLOY:</b>{" "}
-          <a href="https://countries-spa-plum.vercel.app/">
+          <a href="https://countries-spa-plum.vercel.app/" target="_blank">
             https://countries-spa-plum.vercel.app/
           </a>
         </p>
@@ -35,7 +35,7 @@ const Proyectos = () => {
           <b>TECNOLOGÍAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
           Sequelize. <br />
           <b>DEPLOY:</b>{" "}
-          <a href="https://dogs-spa-ten.vercel.app/">
+          <a href="https://dogs-spa-ten.vercel.app/" target="_blank">
             https://dogs-spa-ten.vercel.app/
           </a>
         </p>
@@ -50,7 +50,7 @@ const Proyectos = () => {
           <b>TECNOLOGÍAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
           Sequelize. <br />
           <b>DEPLOY:</b>{" "}
-          <a href="https://pokemon-spa-sooty.vercel.app/">
+          <a href="https://pokemon-spa-sooty.vercel.app/" target="_blank">
             https://pokemon-spa-sooty.vercel.app/
           </a>
         </p>
@@ -65,7 +65,7 @@ const Proyectos = () => {
           <b>TECNOLOGÍAS:</b> Node, Express, React, Redux, Bootstrap, Postgres,
           Sequelize. <br />
           <b>DEPLOY:</b>{" "}
-          <a href="https://videogames-spa-seven.vercel.app/">
+          <a href="https://videogames-spa-seven.vercel.app/" target="_blank">
             https://videogames-spa-seven.vercel.app/
           </a>
         </p>
