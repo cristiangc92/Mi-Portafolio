@@ -19,7 +19,7 @@ function Social() {
       </a>
       <a
         className="icono"
-        href="https://drive.google.com/file/d/1zNQbMRtOHb_AJ5yzX1gAC8N6Q_j7mPYC/view?usp=sharing"
+        href="https://drive.google.com/file/d/1A2PR-r9_Iw0JpIKbLGyAx09qg_7asCds/view?usp=sharing"
         target="_blank"
       >
         CV
